@@ -1,5 +1,3 @@
-ntribute.md to describe how to use the func
-  
-docs: Create contribute.md to describe how to use the func
+# how to contribute:
 
-This is info abt adder function
+This is info abt the contributiob
